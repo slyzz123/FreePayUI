@@ -1,6 +1,7 @@
 ## 系统介绍
 #### 免签支付前台
 #### 免签支付后台： https://github.com/slyzz123/FreePayment
+![image](https://github.com/slyzz123/FreePayment/blob/master/introduce/intro.gif)
 
 ## 安装cnpm 镜像
 #### npm install -g cnpm --registry=https://registry.npm.taobao.org
